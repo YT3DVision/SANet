@@ -10,4 +10,5 @@
 
 <img width="1000" alt="image" src="./imgs/result.png">
 
-**We will release the full code, training scripts, pretrained models, and split files upon acceptance**
+**Pretrained model: https://pan.baidu.com/s/1PLD-YMIkrMp5X4FvbbCPVA?pwd=mwj3**
+**We will release the full code, training scripts, and split files upon acceptance**
